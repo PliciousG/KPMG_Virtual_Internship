@@ -1,5 +1,5 @@
 # KPMG_Virtual_Internship 
-Completed a simulation project with the Data, Analytics & Modelling team, where the primary objective was to advise a client on effective customer targeting.
+Completed a [KPMG virtual internship] (https://www.theforage.com/virtual-experience/m7W4GMqeT3bh9Nb2c/kpmg-au/data-analytics-virtual-internship/overview) simulation project with the primary goal of providing client guidance on efficient customer targeting as part of the Data, Analytics, and Modelling team.
 
 ![image](https://github.com/PliciousG/KPMG_Virtual_Internship/assets/106605456/9fa2a0b6-e608-4f62-b5af-9685ec9593e3)
 
