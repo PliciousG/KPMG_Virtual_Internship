@@ -6,7 +6,7 @@ Completed a [KPMG virtual internship](https://www.theforage.com/virtual-experien
 
 ## My Workflow
 
-![image](https://github.com/PliciousG/KPMG_Virtual_Internship/assets/106605456/c9132cfa-572d-4ce8-b541-2d67b07f6b9d)
+![image](https://github.com/PliciousG/KPMG_Virtual_Internship/assets/106605456/a9f5e4b1-4329-4869-8621-c9d5e21da73a)
 
 ### Step 1: Data Quality Assessment and Cleaning
 **Objective:** Ensure data reliability and cleanliness.
