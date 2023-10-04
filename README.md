@@ -44,7 +44,7 @@ Completed a [KPMG virtual internship](https://www.theforage.com/virtual-experien
 **Actions:**
   - Utilized historical customer data to predict new high-value customers.
 
-** Tools/Skills:** Excel.
+**Tools/Skills:** Excel.
 
 ### Step 5: Data Insights and Recommendations
 
