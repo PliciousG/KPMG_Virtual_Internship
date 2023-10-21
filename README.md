@@ -59,4 +59,3 @@ Completed a [KPMG virtual internship](https://www.theforage.com/virtual-experien
 
 [View Dashboard](https://public.tableau.com/views/Targeted_Customer_Segments_Dashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![image](https://github.com/PliciousG/KPMG_Virtual_Internship/blob/main/Images/Sprocket_Central__Targeted_Customer_Segment_Dashboard.png?raw=true)
-
